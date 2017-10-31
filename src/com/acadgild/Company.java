@@ -1,7 +1,8 @@
 package com.acadgild;
 
 /**
- * The<code> Company class</code> contains final data. It cannot be instantiated.
+ * The<code> Company class</code> contains final data. It cannnot be instantiated.
+ I am trying to edit this inside the Github browser only.
  * <p>This is an abstract class which contain the static and fields which will not change randomly. You can change 
  * the details or add some other functionalities according to your Company.</p>
  * @author Anuj Gautam
